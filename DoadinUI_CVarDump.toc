@@ -1,0 +1,7 @@
+## Interface: 80100
+## Title: DoadinUI_CVarDump
+## Notes: Dump cvarlist
+## Author: Doadin-Malorne
+## Version: 1.0
+## SavedVariables: DoadinUICVarDump
+dump.lua
